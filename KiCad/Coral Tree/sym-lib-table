@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Coral Tree")(type "KiCad")(uri "${KIPRJMOD}/Coral Tree.symbols/Coral Tree.kicad_sym")(options "")(descr ""))
+)
